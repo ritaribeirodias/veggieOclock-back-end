@@ -1,10 +1,10 @@
 # veggieOclock-back-end
 
-Veggie O'Clock Description:
+**Veggie O'Clock Description:**
 
 Veggie O'Clock is an app that tells you which fruits or vegetables are in season and tips to help you extend the life of your products. It has a section for a selected fruit and vegetable of the month and some tips on why we should eat seasonally.
 
-Getting Started:
+**Getting Started:**
 
  1. Clone this repo to your local machine
  2. Go to this repo and clone this one as well https://github.com/ritaribeirodias/veggieOclock-front-end.git
