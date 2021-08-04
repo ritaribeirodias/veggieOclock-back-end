@@ -7,7 +7,7 @@ Veggie O'Clock is an app that tells you which fruits or vegetables are in season
 Getting Started:
 
  1. Clone this repo to your local machine
- 2. Go to this repo and clone this one as well
+ 2. Go to this repo and clone this one as well https://github.com/ritaribeirodias/veggieOclock-front-end.git
  3. On the back-end install all the dependecies by running `npm install`
  4. Now run `nodemon` on your terminal
  5. Open the front end and run `npm install`
